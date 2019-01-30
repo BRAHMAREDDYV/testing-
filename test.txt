@@ -4,11 +4,4 @@ This is for diff
 
 Do for branch checks
 
-Git adding commitss to all branchs using merge
-
-<<<<<<< HEAD
-change in vbr1
-=======
-
-same changes made fr
->>>>>>> vbr2
+Git adding commitss to all branchs 
